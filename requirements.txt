@@ -1,0 +1,33 @@
+# RagilmalikGitCloner - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Modern GUI
+customtkinter==5.2.2
+darkdetect==0.8.0
+packaging==23.2
+
+# Git Operations
+GitPython==3.1.40
+gitdb==4.0.11
+smmap==5.0.1
+
+# Data & Reporting
+pandas==2.1.4
+numpy==1.26.3
+python-dateutil==2.8.2
+pytz==2023.3.post1
+six==1.16.0
+tzdata==2023.4
+
+# Excel Support
+openpyxl==3.1.2
+et-xmlfile==1.1.0
+
+# Image Processing (Icon)
+Pillow==10.2.0
+
+# Packaging
+pyinstaller==6.3.0
+pyinstaller-hooks-contrib==2024.0
+altgraph==0.17.4
+pefile==2023.2.7
