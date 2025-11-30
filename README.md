@@ -16,7 +16,7 @@ I realized I had two choices:
 1.  Succumb to the repetitive stress injury and lose my mind.
 2.  Build a tool so over-engineered and beautiful that it solves the problem forever.
 
-I chose **RagilmalikGitCloner**. It's not just a script; it's a statement. It's a portable, dark-mode, batch-processing beast that carries its own Git engine in its pocket.
+I made **one**. It's not just a script; it's a statement. It's a portable, dark-mode, batch-processing beast that carries its own Git engine in its pocket.
 
 ---
 
